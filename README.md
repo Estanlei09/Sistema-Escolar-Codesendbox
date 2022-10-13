@@ -1,2 +1,2 @@
 # Sistema-Escolar-Codesendbox
-Created with CodeSandbox
+Projeto de conclusão de curso de desenvolvimento de sistemas
